@@ -386,8 +386,6 @@ def join_station_data(stations_df, readings_df):
     print("\n✅ Station data join completed successfully!")
     
     return result
-    
-    pass  # Remove this line when you implement the function
 
 
 # =============================================================================
